@@ -3,6 +3,7 @@
 This repository contains a collection of web scraping scripts written in Python using libraries such as BeautifulSoup and Scrapy. These scripts are designed to extract data from various websites and can serve as examples or templates for building your own web scraping projects.
 
 #Table of Contents
+
 Introduction
 Scripts Overview
 Installation

@@ -2,7 +2,7 @@
 
 This repository contains a collection of web scraping scripts written in Python using libraries such as BeautifulSoup and Scrapy. These scripts are designed to extract data from various websites and can serve as examples or templates for building your own web scraping projects.
 
-#Table of Contents
+### Table of Contents
 
 Introduction
 Scripts Overview
@@ -13,7 +13,8 @@ License
 Introduction
 Web scraping is the process of extracting data from websites. It can be used for various purposes such as data analysis, research, and automation. This repository provides a set of Python scripts that demonstrate different web scraping techniques and strategies.
 
-Scripts Overview
+#### Scripts Overview
+
 The repository includes the following web scraping scripts:
 
 SimpleScraper.py: A basic script using BeautifulSoup to extract data from a single webpage.

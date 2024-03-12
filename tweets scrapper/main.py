@@ -77,7 +77,7 @@ def scrape_twitter_profile():
 print("Twitter scraping script is running...")
 
 # Scheduling the scraping task to run every 1 minute (for testing purposes)
-schedule.every(1).minutes.do(scrape_twitter_profile)
+schedule.every(8).hours.do(scrape_twitter_profile)
 
 while True:
     try:
